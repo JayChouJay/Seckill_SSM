@@ -6,147 +6,8 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e6e78f5-c771-4771-803b-88e372619241" name="Default Changelist" comment="mmmm">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/ItemController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entity/ResponseResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entity/SeckillItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entity/SeckillOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entity/SeckillUrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exception/MyExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/exception/SeckillException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/interceptor/LoginInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ItemMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/ItemMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/OrderMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/OrderMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/redis.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/service/ItemService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/service/impl/ItemServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/service/impl/SeckillOrderTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-dao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-redis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/spring/spring-web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/RedisUtil$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/RedisUtil$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/util/RedisUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT.war" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/controller/ItemController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/controller/UserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/entity/ResponseResult.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/entity/SeckillItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/entity/SeckillOrder.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/entity/SeckillUrl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/entity/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/exception/MyExceptionHandler.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/exception/SeckillException.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/interceptor/LoginInterceptor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/jdbc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/logback.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/mapper/ItemMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/mapper/ItemMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/mapper/OrderMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/mapper/OrderMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/mapper/UserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/mapper/UserMapper.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/mybatis-config.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/redis.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/service/ItemService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/service/UserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/service/impl/ItemServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/service/impl/SeckillOrderTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/service/impl/UserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/spring/spring-dao.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/spring/spring-redis.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/spring/spring-web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/util/RedisUtil$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/util/RedisUtil$2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/classes/util/RedisUtil.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/jsp/common/common.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/jsp/common/top.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/jsp/detail.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/jsp/error.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/jsp/error/404.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/jsp/error/500.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/jsp/order.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/jsp/seckill_list.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/commons-pool2-2.4.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/druid-1.1.22.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/hamcrest-core-1.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/hutool-all-5.6.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/jackson-annotations-2.12.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/jackson-core-2.12.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/jackson-databind-2.12.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/javax.servlet-api-3.1.0.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/jedis-2.9.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/junit-4.13.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/logback-classic-1.2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/logback-core-1.2.3.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/lombok-1.18.20.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/mybatis-3.5.6.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/mybatis-spring-1.3.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/mysql-connector-java-8.0.23.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/protobuf-java-3.11.4.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/slf4j-api-1.7.25.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/spring-aop-5.3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/spring-beans-5.3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/spring-context-5.3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/spring-context-support-5.1.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/spring-core-5.3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/spring-data-commons-2.1.10.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/spring-data-keyvalue-2.1.10.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/spring-data-redis-2.1.10.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/spring-expression-5.3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/spring-jcl-5.3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/spring-jdbc-5.3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/spring-oxm-5.1.9.RELEASE.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/spring-test-5.3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/spring-tx-5.3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/spring-web-5.3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/spring-webmvc-5.3.5.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/lib/standard-1.1.2.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/css/bootstrap-theme.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/css/bootstrap-theme.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/css/bootstrap-theme.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/css/bootstrap-theme.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/css/bootstrap.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/css/bootstrap.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/css/bootstrap.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/css/bootstrap.min.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/css/login.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/css/style.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/fonts/glyphicons-halflings-regular.eot" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/fonts/glyphicons-halflings-regular.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/fonts/glyphicons-halflings-regular.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/fonts/glyphicons-halflings-regular.woff" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/fonts/glyphicons-halflings-regular.woff2" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/img/123.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/img/404.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/img/back.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/js/bootstrap.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/js/bootstrap.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/js/jquery-3.2.1.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/js/npm.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/login.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/duyi-seckill-1.0-SNAPSHOT/regist.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/TEST-Test.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/surefire-reports/Test.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Test.class" beforeDir="false" />
+    <list default="true" id="2e6e78f5-c771-4771-803b-88e372619241" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/sql/duing-seckill2.sql" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -157,7 +18,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/sql/duing-seckill2.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -186,7 +53,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/web/index.html" />
         <option value="$PROJECT_DIR$/web/js/jquery-3.2.1.min.js" />
         <option value="$PROJECT_DIR$/web/WEB-INF/jsp/common/common.jsp" />
         <option value="$PROJECT_DIR$/web/WEB-INF/jsp/regist.jsp" />
@@ -237,6 +103,7 @@
         <option value="$PROJECT_DIR$/src/main/webapp/login.jsp" />
         <option value="$PROJECT_DIR$/src/main/webapp/css/login.css" />
         <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/sql/duing-seckill2.sql" />
       </list>
     </option>
   </component>
@@ -328,16 +195,7 @@
               <item name="Seckill_SSM" type="b2602c69:ProjectViewProjectNode" />
               <item name="Seckill_SSM" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Seckill_SSM" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Seckill_SSM" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="webapp" type="462c0819:PsiDirectoryNode" />
-              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+              <item name="sql" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -357,27 +215,27 @@
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="exception" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\Java\IdeaProjects\duyi_seckill\src\main\webapp" />
-      <recent name="D:\Java\IdeaProjects\duyi_seckill\src\main\webapp\WEB-INF" />
-      <recent name="D:\Java\IdeaProjects\duyi_seckill\src\main\webapp\img" />
-      <recent name="D:\Java\IdeaProjects\duyi_seckill\src\main\webapp\WEB-INF\jsp\error" />
-      <recent name="D:\Java\IdeaProjects\duyi_seckill\src\main\resources\mapper" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="service.impl" />
-      <recent name="mapper" />
-      <recent name="service" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Java\IdeaProjects\duyi_seckill\src\main\webapp\css" />
       <recent name="D:\Java\IdeaProjects\duyi_seckill\src\main\webapp" />
       <recent name="D:\Java\IdeaProjects\duyi_seckill\src\main\webapp\WEB-INF" />
       <recent name="D:\Java\IdeaProjects\duyi_seckill\src\main" />
       <recent name="D:\Java\IdeaProjects\duyi_seckill\src\main\java" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Java\IdeaProjects\duyi_seckill\Seckill_SSM\src\sql" />
+      <recent name="D:\Java\IdeaProjects\duyi_seckill\src\main\webapp" />
+      <recent name="D:\Java\IdeaProjects\duyi_seckill\src\main\webapp\WEB-INF" />
+      <recent name="D:\Java\IdeaProjects\duyi_seckill\src\main\webapp\img" />
+      <recent name="D:\Java\IdeaProjects\duyi_seckill\src\main\webapp\WEB-INF\jsp\error" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="service.impl" />
+      <recent name="mapper" />
+      <recent name="service" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="exception" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -547,8 +405,9 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1294" height="704" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49411765" visible="true" weight="0.234375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49411765" visible="true" weight="0.234375" />
       <window_info id="Structure" order="1" sideWeight="0.50084037" side_tool="true" weight="0.18828125" />
       <window_info id="Web" order="2" sideWeight="0.5058824" side_tool="true" weight="0.21015625" />
       <window_info id="Designer" order="3" />
@@ -637,13 +496,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="mmmm" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/main/java/service/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-test/5.3.5/spring-test-5.3.5-sources.jar!/org/springframework/test/context/junit4/SpringJUnit4ClassRunner.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -1015,6 +867,9 @@
           <caret line="23" column="29" lean-forward="true" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/sql/duing-seckill2.sql">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
   <component name="masterDetails">
