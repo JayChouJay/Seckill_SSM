@@ -6,10 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2e6e78f5-c771-4771-803b-88e372619241" name="Default Changelist" comment="mmmm">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2e6e78f5-c771-4771-803b-88e372619241" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -69,8 +66,8 @@
         <entry file="file://$PROJECT_DIR$/pom.xml">
           <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="36">
-              <caret line="89" column="37" lean-forward="true" selection-start-line="89" selection-start-column="37" selection-end-line="89" selection-end-column="37" />
+            <state relative-caret-position="336">
+              <caret line="99" column="35" selection-start-line="99" selection-start-column="35" selection-end-line="99" selection-end-column="35" />
             </state>
           </provider>
         </entry>
@@ -448,7 +445,7 @@
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1294" height="704" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49411765" visible="true" weight="0.23515625" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49411765" visible="true" weight="0.23515625" />
       <window_info id="Structure" order="1" sideWeight="0.50084037" side_tool="true" weight="0.18828125" />
       <window_info id="Web" order="2" sideWeight="0.5058824" side_tool="true" weight="0.21015625" />
       <window_info id="Designer" order="3" />
@@ -465,7 +462,7 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32996634" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Spring" order="10" weight="0.32984293" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.8030303" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.8030303" />
       <window_info anchor="bottom" id="Event Log" order="12" sideWeight="0.50078124" side_tool="true" weight="0.54713804" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49921876" weight="0.53109246" />
       <window_info anchor="bottom" id="Java Enterprise" order="14" />
@@ -894,8 +891,8 @@
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="89" column="37" lean-forward="true" selection-start-line="89" selection-start-column="37" selection-end-line="89" selection-end-column="37" />
+        <state relative-caret-position="336">
+          <caret line="99" column="35" selection-start-line="99" selection-start-column="35" selection-end-line="99" selection-end-column="35" />
         </state>
       </provider>
     </entry>
