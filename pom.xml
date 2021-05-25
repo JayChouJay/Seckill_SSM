@@ -118,7 +118,7 @@
             <version>5.6.5</version>
         </dependency>
     </dependencies>
-    <build>
-        <finalName>Seckill_SSM</finalName>
-    </build>
+    <!--<build>-->
+        <!--<finalName>Seckill_SSM</finalName>-->
+    <!--</build>-->
 </project>
